@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/813525514891164357/3f869b5a71914facbc6e9e5a5020b930/artifacts
+end_time: 1743962789719
+entry_point_name: ''
+experiment_id: '813525514891164357'
+lifecycle_stage: active
+run_id: 3f869b5a71914facbc6e9e5a5020b930
+run_name: treasured-stoat-61
+run_uuid: 3f869b5a71914facbc6e9e5a5020b930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743962789596
+status: 3
+tags: []
+user_id: Mustafa Farid
