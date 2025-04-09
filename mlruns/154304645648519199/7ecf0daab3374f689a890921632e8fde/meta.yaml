@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/154304645648519199/7ecf0daab3374f689a890921632e8fde/artifacts
+end_time: 1744220958390
+entry_point_name: ''
+experiment_id: '154304645648519199'
+lifecycle_stage: active
+run_id: 7ecf0daab3374f689a890921632e8fde
+run_name: caring-sow-79
+run_uuid: 7ecf0daab3374f689a890921632e8fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744220951830
+status: 3
+tags: []
+user_id: Mustafa Farid

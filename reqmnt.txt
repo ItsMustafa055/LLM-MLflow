@@ -1,3 +1,4 @@
 mlflow
 numpy
 scikit-learn
+uv
