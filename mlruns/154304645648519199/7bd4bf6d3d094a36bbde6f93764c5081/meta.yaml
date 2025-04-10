@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/154304645648519199/7bd4bf6d3d094a36bbde6f93764c5081/artifacts
+end_time: 1744286631942
+entry_point_name: ''
+experiment_id: '154304645648519199'
+lifecycle_stage: active
+run_id: 7bd4bf6d3d094a36bbde6f93764c5081
+run_name: bright-vole-369
+run_uuid: 7bd4bf6d3d094a36bbde6f93764c5081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744286610530
+status: 3
+tags: []
+user_id: farid

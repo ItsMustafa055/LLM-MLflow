@@ -2,3 +2,6 @@ mlflow
 numpy
 scikit-learn
 uv
+pandas
+seaborn
+matplotlib
