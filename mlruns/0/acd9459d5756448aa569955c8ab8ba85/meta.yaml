@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/acd9459d5756448aa569955c8ab8ba85/artifacts
+deleted_time: 1744630668841
+end_time: 1744630601783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: acd9459d5756448aa569955c8ab8ba85
+run_name: ambitious-toad-129
+run_uuid: acd9459d5756448aa569955c8ab8ba85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744630474841
+status: 4
+tags: []
+user_id: farid

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4f66734001ce46bdb405d1e3585dc813/artifacts
+deleted_time: 1744630668891
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4f66734001ce46bdb405d1e3585dc813
+run_name: melodic-stag-407
+run_uuid: 4f66734001ce46bdb405d1e3585dc813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744627822496
+status: 1
+tags: []
+user_id: farid

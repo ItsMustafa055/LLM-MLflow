@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3cb5b1c7b2954d538785e72b58dfb331/artifacts
+deleted_time: 1744630668872
+end_time: 1744627801588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3cb5b1c7b2954d538785e72b58dfb331
+run_name: resilient-steed-609
+run_uuid: 3cb5b1c7b2954d538785e72b58dfb331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744627801507
+status: 4
+tags: []
+user_id: farid

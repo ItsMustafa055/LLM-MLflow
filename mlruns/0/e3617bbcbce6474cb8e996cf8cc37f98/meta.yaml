@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e3617bbcbce6474cb8e996cf8cc37f98/artifacts
+deleted_time: 1744630668860
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e3617bbcbce6474cb8e996cf8cc37f98
+run_name: efficient-shrew-196
+run_uuid: e3617bbcbce6474cb8e996cf8cc37f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744629263715
+status: 1
+tags: []
+user_id: farid

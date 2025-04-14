@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/82c18a2b97784619843698bf66a69cae/artifacts
+deleted_time: 1744630668895
+end_time: 1744627807293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 82c18a2b97784619843698bf66a69cae
+run_name: abundant-bear-844
+run_uuid: 82c18a2b97784619843698bf66a69cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744627807239
+status: 4
+tags: []
+user_id: farid

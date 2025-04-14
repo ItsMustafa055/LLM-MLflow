@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f906edde3c474cf1b2a759bc6a3b9258/artifacts
+deleted_time: 1744630668870
+end_time: 1744627754497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f906edde3c474cf1b2a759bc6a3b9258
+run_name: chill-sow-762
+run_uuid: f906edde3c474cf1b2a759bc6a3b9258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744627754407
+status: 4
+tags: []
+user_id: farid

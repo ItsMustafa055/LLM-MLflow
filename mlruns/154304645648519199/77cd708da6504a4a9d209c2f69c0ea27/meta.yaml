@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/154304645648519199/77cd708da6504a4a9d209c2f69c0ea27/artifacts
+deleted_time: 1744613469973
 end_time: 1744359549297
 entry_point_name: ''
 experiment_id: '154304645648519199'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 77cd708da6504a4a9d209c2f69c0ea27
 run_name: judicious-bee-258
 run_uuid: 77cd708da6504a4a9d209c2f69c0ea27
