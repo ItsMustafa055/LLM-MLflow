@@ -5,3 +5,6 @@ uv
 pandas
 seaborn
 matplotlib
+keras
+tensorflow
+hyperopt
