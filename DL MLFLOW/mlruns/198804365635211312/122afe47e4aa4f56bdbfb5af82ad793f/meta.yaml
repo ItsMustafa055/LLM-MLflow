@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/122afe47e4aa4f56bdbfb5af82ad793f/artifacts
+end_time: 1745519569222
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 122afe47e4aa4f56bdbfb5af82ad793f
+run_name: silent-flea-734
+run_uuid: 122afe47e4aa4f56bdbfb5af82ad793f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519545236
+status: 3
+tags: []
+user_id: Mustafa Farid

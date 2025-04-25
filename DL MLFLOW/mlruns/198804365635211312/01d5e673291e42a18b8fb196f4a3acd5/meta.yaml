@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/01d5e673291e42a18b8fb196f4a3acd5/artifacts
+end_time: 1745519329265
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 01d5e673291e42a18b8fb196f4a3acd5
+run_name: kindly-boar-387
+run_uuid: 01d5e673291e42a18b8fb196f4a3acd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519329168
+status: 4
+tags: []
+user_id: Mustafa Farid

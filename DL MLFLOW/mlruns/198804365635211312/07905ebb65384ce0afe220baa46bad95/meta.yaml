@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/07905ebb65384ce0afe220baa46bad95/artifacts
+end_time: 1745519627946
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 07905ebb65384ce0afe220baa46bad95
+run_name: adorable-asp-37
+run_uuid: 07905ebb65384ce0afe220baa46bad95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519545077
+status: 3
+tags: []
+user_id: Mustafa Farid

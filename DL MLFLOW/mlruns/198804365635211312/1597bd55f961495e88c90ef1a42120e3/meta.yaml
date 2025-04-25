@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/1597bd55f961495e88c90ef1a42120e3/artifacts
+end_time: 1745518635096
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 1597bd55f961495e88c90ef1a42120e3
+run_name: loud-cod-717
+run_uuid: 1597bd55f961495e88c90ef1a42120e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745518634955
+status: 4
+tags: []
+user_id: Mustafa Farid

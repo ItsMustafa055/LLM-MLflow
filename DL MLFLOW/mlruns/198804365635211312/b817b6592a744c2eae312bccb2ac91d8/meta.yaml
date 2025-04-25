@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/b817b6592a744c2eae312bccb2ac91d8/artifacts
+end_time: 1745519433861
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: b817b6592a744c2eae312bccb2ac91d8
+run_name: adventurous-lark-946
+run_uuid: b817b6592a744c2eae312bccb2ac91d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519433440
+status: 4
+tags: []
+user_id: Mustafa Farid

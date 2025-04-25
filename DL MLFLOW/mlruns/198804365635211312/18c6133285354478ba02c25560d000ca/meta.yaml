@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/18c6133285354478ba02c25560d000ca/artifacts
+end_time: 1745518411949
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 18c6133285354478ba02c25560d000ca
+run_name: bold-zebra-876
+run_uuid: 18c6133285354478ba02c25560d000ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745518411811
+status: 4
+tags: []
+user_id: Mustafa Farid

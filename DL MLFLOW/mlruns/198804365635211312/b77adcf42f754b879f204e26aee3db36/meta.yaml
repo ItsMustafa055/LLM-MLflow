@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/b77adcf42f754b879f204e26aee3db36/artifacts
+end_time: 1745519600260
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: b77adcf42f754b879f204e26aee3db36
+run_name: peaceful-fox-695
+run_uuid: b77adcf42f754b879f204e26aee3db36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519585030
+status: 3
+tags: []
+user_id: Mustafa Farid

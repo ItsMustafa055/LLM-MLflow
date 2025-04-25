@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745520224063
+current_stage: None
+description: ''
+last_updated_timestamp: 1745520224063
+name: Final wine
+run_id: 07905ebb65384ce0afe220baa46bad95
+run_link: ''
+source: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/07905ebb65384ce0afe220baa46bad95/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/07905ebb65384ce0afe220baa46bad95/artifacts/model
+user_id: null
+version: 1

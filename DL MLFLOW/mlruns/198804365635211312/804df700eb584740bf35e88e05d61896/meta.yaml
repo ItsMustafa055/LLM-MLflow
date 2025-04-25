@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/804df700eb584740bf35e88e05d61896/artifacts
+end_time: 1745519584956
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 804df700eb584740bf35e88e05d61896
+run_name: unruly-fowl-305
+run_uuid: 804df700eb584740bf35e88e05d61896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745519569305
+status: 3
+tags: []
+user_id: Mustafa Farid

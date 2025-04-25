@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/d3c822ca363b4e98a656ebc9c16c538d/artifacts
+end_time: 1745518354598
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: d3c822ca363b4e98a656ebc9c16c538d
+run_name: auspicious-perch-738
+run_uuid: d3c822ca363b4e98a656ebc9c16c538d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745518354517
+status: 4
+tags: []
+user_id: Mustafa Farid

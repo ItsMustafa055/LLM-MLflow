@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/93e59c5bb022461592ddd545e6831317/artifacts
+end_time: 1745518394556
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: 93e59c5bb022461592ddd545e6831317
+run_name: crawling-conch-600
+run_uuid: 93e59c5bb022461592ddd545e6831317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745518394473
+status: 4
+tags: []
+user_id: Mustafa Farid

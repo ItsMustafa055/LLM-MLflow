@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/LLM-MLflow/DL%20MLFLOW/mlruns/198804365635211312/b2fb54d213c84708a4464860fa170fb0/artifacts
+end_time: 1745518561543
+entry_point_name: ''
+experiment_id: '198804365635211312'
+lifecycle_stage: active
+run_id: b2fb54d213c84708a4464860fa170fb0
+run_name: beautiful-zebra-707
+run_uuid: b2fb54d213c84708a4464860fa170fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745518561387
+status: 4
+tags: []
+user_id: Mustafa Farid
